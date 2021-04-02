@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="35026" started-at="2021-04-01T18:38:30Z" finished-at="2021-04-01T18:39:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="35026" started-at="2021-04-01T18:38:30Z" finished-at="2021-04-01T18:39:05Z">
+      <class name="TestCases.TestCase01">
+        <test-method status="PASS" signature="browserSetUp()[pri:0, instance:TestCases.TestCase01@f6c48ac]" name="browserSetUp" is-config="true" duration-ms="10670" started-at="2021-04-02T00:08:30Z" finished-at="2021-04-02T00:08:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetUp -->
+        <test-method status="PASS" signature="SearchShow()[pri:1, instance:TestCases.TestCase01@f6c48ac]" name="SearchShow" duration-ms="11115" started-at="2021-04-02T00:08:40Z" finished-at="2021-04-02T00:08:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchShow -->
+        <test-method status="PASS" signature="selectshow()[pri:2, instance:TestCases.TestCase01@f6c48ac]" name="selectshow" duration-ms="8857" started-at="2021-04-02T00:08:51Z" finished-at="2021-04-02T00:09:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectshow -->
+        <test-method status="PASS" signature="verifyPage()[pri:3, instance:TestCases.TestCase01@f6c48ac]" name="verifyPage" duration-ms="34" started-at="2021-04-02T00:09:00Z" finished-at="2021-04-02T00:09:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPage -->
+        <test-method status="PASS" signature="captureScreenshot()[pri:4, instance:TestCases.TestCase01@f6c48ac]" name="captureScreenshot" duration-ms="3973" started-at="2021-04-02T00:09:00Z" finished-at="2021-04-02T00:09:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureScreenshot -->
+        <test-method status="PASS" signature="teamDown()[pri:0, instance:TestCases.TestCase01@f6c48ac]" name="teamDown" is-config="true" duration-ms="330" started-at="2021-04-02T00:09:04Z" finished-at="2021-04-02T00:09:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teamDown -->
+      </class> <!-- TestCases.TestCase01 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
